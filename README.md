@@ -7,6 +7,6 @@
 
 ### Instal:
 
-- cd birthday-reminder;
+- cd tours;
 - yarn && yarn start;
 - have fun!
